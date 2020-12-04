@@ -14,7 +14,7 @@ func main() {
 
 	//var passline string
 	goodpasses := 0
-	passline := ""
+	passline := "\n"
 
 	elements := []string{"ecl", "pid", "eyr", "hcl", "byr", "iyr", "hgt"}
 
